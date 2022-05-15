@@ -83,7 +83,7 @@ public class MainWindow implements Initializable {
 		// TODO Auto-generated method stub
 		gc.setStroke(Color.rgb(214, 214, 214));
 		gc.setLineWidth(0.5);
-		gc.setFill(Color.rgb(0, 0, 0));
+		gc.setFill(Color.rgb(80, 40, 40));
 		double y = canvas.getHeight() / 4;
 		double x = canvas.getWidth() / 4;
 		for (int i = 0; i < 4; i++) {
